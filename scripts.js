@@ -1,5 +1,5 @@
 const boton1 = document.querySelector("#miBoton");
-// Agregar listener
+// Agregar listene
 boton1.addEventListener("click", function(evento){
 	// Aquí todo el código que se ejecuta cuando se da click al botón
 	alert("Le has dado click Buscar");
